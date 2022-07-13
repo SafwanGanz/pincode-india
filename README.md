@@ -32,13 +32,7 @@ pincode.lookup(679321);
 	pincode: 679321,
 	taluk: 'Perinthalmanna',
 	districtName: 'Malapuram',
-	stateName: 'KERALA'
-	}]*/
-	
-	
-	var get = pincode.lookup(679321);
-	if (!get.length === 0) return console.log('Not founded')
-	console.log(get[0].officeName)
+	stateName: 'KERALA'	
 ```
 
 ## Sources
