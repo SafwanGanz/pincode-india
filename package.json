@@ -1,0 +1,29 @@
+{
+  "name": "pincode-india",
+  "version": "1.0.0",
+  "description": "Node module to easily lookup any pincode details in India.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SafwanGanz/pincode-india.git"
+  },
+  "keywords": [
+    "pincode",
+    "pincodes",
+    "india",
+    "postalcode",
+    "india pincode",
+    "india pincodes",
+    "indian pincode",
+    "indian pincodes"
+  ],
+  "author": "SafwanGanz <safwanganz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SafwanGanz/pincode-india/issues"
+  },
+  "homepage": "https://github.com/SafwanGanz/pincode-india#readme"
+}
