@@ -8,7 +8,7 @@ The pincode data used in this module is provided by data.gov.in
 ## Install using npm:
 
 ``` bash
-npm install pincode-india
+npm install github:SafwanGanz/pincode-india
 ```
 
 ## Example usage
